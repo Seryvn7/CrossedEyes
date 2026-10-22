@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0B1210</color>
+
+    <style name="Theme.CrossEyes" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorBackground">#FF0B1210</item>
+        <item name="android:windowBackground">#FF0B1210</item>
+        <item name="android:statusBarColor">#FF0B1210</item>
+        <item name="android:navigationBarColor">#FF0B1210</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Theme.CrossEyes.StartUp" parent="Theme.CrossEyes" />
+</resources>

@@ -1,0 +1,29 @@
+# Build output
+app/build/
+build/
+
+# Gradle
+.gradle/
+local.properties
+*.iml
+*.ipr
+*.iws
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# APK files
+app/build/outputs/apk/
+
+# Logs
+*.log
+logs/
+
+# Shizuku debug files
+debug/
